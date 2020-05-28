@@ -1,4 +1,4 @@
-module github.com/akrylysov/algnhsa
+module github.com/krazybee/algnhsa
 
 go 1.12
 
