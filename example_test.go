@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/akrylysov/algnhsa"
+	"github.com/krazybee/algnhsa"
 )
 
 func indexHandler(w http.ResponseWriter, r *http.Request) {
